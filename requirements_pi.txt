@@ -1,0 +1,9 @@
+flask==3.0.3
+opencv-python-headless==4.10.0.84
+tflite-runtime==2.14.0
+joblib==1.4.2
+scikit-learn==1.5.0
+numpy==1.26.4
+pyserial==3.5
+adafruit-circuitpython-dht==4.0.5
+picamera2==0.3.22
